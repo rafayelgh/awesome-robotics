@@ -186,6 +186,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [PAL Robotics](http://pal-robotics.com)
 * [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
 * [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
+* [brain4machinery](https://brain4machinery.com/) — Technical deep-dives on Jetson carrier boards, FPGA-Jetson hybrid controllers, and industrial robotics hardware design without R&D cost.
 * [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
